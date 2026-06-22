@@ -1,1 +1,1 @@
-exercisessss
+c++ exercises and future projects
