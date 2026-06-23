@@ -7,11 +7,14 @@ should then print this values. Add an appropriate
 comment above function main()
 Code::Blocks 25.03
 learncpp exercise 1.5: Introduction of iostream:cout,cin,endl
+This program demonstrates asking the user three integers and 
+printing it back. Updated after reading this code 6/23/2026
 */
+
 
 int main()
 {
-   std::cout<<"Enter a three numbers: ";
+   std::cout<<"Enter three numbers: ";
 
    int x{};
    int y{};
