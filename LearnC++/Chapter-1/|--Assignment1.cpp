@@ -28,7 +28,8 @@ int main()
     /* my original solution / code is not here but I used the
     data types of int instead of string originally, thus my
     code had a logic error originally. As you may see, I have
-    replaced it with the correct data type. */
+    replaced it with the correct data type. A reasonable score 
+    of 18/20 because of formatting issues. */
 
     return 0;
 
